@@ -1,3 +1,9 @@
+Description:
+=====================
+
+This project automates the automation assignment using Selenium with Cucumber framework and Maven as build management tool.
+
+
 Prerequisites/Configuration setup required for the project:
 =====================
   IntelliJ dea 2016.3.2
